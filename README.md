@@ -1,4 +1,4 @@
-# Module-2-Image-Descriptors
+# Module-2-Image-Global-Descriptors
 
 1.Color Channel Statistics
 
